@@ -1,0 +1,11 @@
+﻿  DirectX.cpp
+C:\Users\User\Desktop\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(391,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(389,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\User\Desktop\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(390,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\User\Desktop\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(544,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Code wird generiert.
+  6 of 115 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  SkyrimOverlay.vcxproj -> C:\Users\User\Desktop\SKYRIM_OVERLAY\Release\SkyrimOverlay.dll
