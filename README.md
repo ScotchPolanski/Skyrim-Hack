@@ -20,6 +20,7 @@ The comments will help you to find the addresses if Skyrim will get an update.
 
 Reversed with CE and ReClass
 
+_____________________________________________________________________________
 
 If you want to fix Bone ESP: read pointer if its empty & clear array of ents.
 
